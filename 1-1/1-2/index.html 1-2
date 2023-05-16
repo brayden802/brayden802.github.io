@@ -11,8 +11,9 @@ table, th, td {
 
 <table style="width:100%">
   <tr>
-    <th>Resume</th>
-   
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
