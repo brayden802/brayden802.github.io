@@ -1,16 +1,15 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 
 
 
   <html lang = "en">
-    <head></head
+    <head>
  h1 {
 
   text-align: center;
 }
-
-<title>This is /title>
-  </head>
+    </head>
+<title>This is </title>
       
   <body>
         
