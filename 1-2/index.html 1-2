@@ -1,17 +1,50 @@
 <!DOCTYPE html>
-
-
-
-  <html lang = "en">
-    <head>
- h1 {
-
+<html>
+  <head>
+<style>
+ :lang(en)
+table, th, td {
+  border:1px solid rgb(0, 0, 0);
   text-align: center;
 }
-    </head>
-<title>This is 1-1 </title>
-      
+
+</style>
+  </head>
+<th>My Resume</th>
+
+<h1>Assignment 1-2</h1>
+<table style="width:100%">
+  <tr>
+   
+    
   <body>
+  <th>Brayden Emerick</th>
+  <p>2248 East Newberg Road, Pinconning Michigan 48650</p>
+  <p>Phone 810-280-4148</p>
+  <p>braydenemerick114@gmail.com</p>
   </body>
-  </html>
-        
+  <body>
+  <h2>Education</h2>
+  <p>Pinconning High School</p>
+  <p>Phone 989-308-0500</p>
+  <p>Graduation date June 2024</p>
+  <h3>Bay Arenac ISD Career Center - Bay City MI</h3>
+  <p>Phone 989-686-4770</p>
+  <p>Program Area Computer Programming</p>
+  <p>Date of completion June 2024</p>
+  <h3>Special Skills</h3>
+  <p>Computer Terminolgy PC trouble shooting Java </p>
+  <h4>Memberships & Acheivements</h4>
+  <p>Memeber of BPA</p>
+  <h5>Community Service</h5>
+  <p>Prairie Grass Clean-Up</p>
+   
+    
+    
+
+
+
+
+</body>
+</html>
+
