@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Coffee Shop</title>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Coffee Shop</h1>
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="prices.html">Prices</a></li>
+      <li><a href="information.html">Information</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <h2>About Us</h2>
+    <p>Welcome to our cozy coffee shop! We take pride in serving the best coffee in town, made from freshly roasted beans sourced from around the world.</p>
+    <p>Our baristas are highly skilled and passionate about delivering a delightful coffee experience to every customer. Whether you prefer a classic espresso, a creamy latte, or a refreshing iced coffee, we have it all!</p>
+    <p>Visit us today and discover your new favorite coffee!</p>
+  </main>
+  
+  <footer>
+    <p>&copy; 2023 Coffee Shop. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Coffee Shop - Prices</title>
+</head>
+<body>
+  <header>
+    <h1>Coffee Shop - Prices</h1>
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="information.html">Information</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <h2>Our Prices</h2>
+    <ul>
+      <li>Espresso: $2.50</li>
+      <li>Latte: $3.50</li>
+      <li>Cappuccino: $3.00</li>
+      <li>Mocha: $4.00</li>
+      <li>Americano: $2.75</li>
+    </ul>
+  </main>
+  
+  <footer>
+    <p>&copy; 2023 Coffee Shop. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Coffee Shop - Information</title>
+</head>
+<body>
+  <header>
+    <h1>Coffee Shop - Information</h1>
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="prices.html">Prices</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <h2>About Our Coffee Shop</h2>
+    <p>Location: 123 Main Street, City</p>
+    <p>Hours of Operation:</p>
+    <ul>
+      <li>Monday-Friday: 7:00 AM - 6:00 PM</li>
+      <
